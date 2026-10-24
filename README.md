@@ -1,6 +1,6 @@
 
 This is a simple terminal project that checks a 9x9 Sudoku grid for row duplicates. It is 
-built entirely with basic Linux commands (`sort`, `uniq`, `tr`).
+built entirely with basic Linux commands (sort, uniq, tr).
 
 This project was birthed from a correlation I found with Sudoku Puzzles while 
 learning the uniq command in Linux as uniq -d flag finds and prints duplicate numbers, 
